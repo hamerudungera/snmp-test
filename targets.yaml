@@ -1,1 +1,8 @@
-
+- name: t1
+  address: localhost:161
+  module: default
+  auth: public_v2
+- name: t2
+  address: localhost:161
+  module: default
+  auth: public_v2
