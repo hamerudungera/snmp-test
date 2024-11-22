@@ -1,8 +1,4 @@
-- name: t1
-  address: localhost:161
-  module: default
-  auth: public_v2
-- name: t2
-  address: localhost:161
-  module: default
+- name: cisco-test-snmp
+  address: 10.3.1.99:161
+  module: cisco
   auth: public_v2
